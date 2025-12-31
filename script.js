@@ -57,17 +57,17 @@ const sequences = [
   { 
     type: 'show', 
     target: 'output2', 
-    html: `<span class="success">[SUCCESS]</span> Year 2025 archived successfully ✓<br><span class="success">[SUCCESS]</span> Loading new beginnings...<br><span class="success">[SUCCESS]</span> Compiling hopes and dreams...<br><span class="warning">[WARN]</span> Expectations set to: <span class="highlight">MAXIMUM</span>`
+    html: `<span class="success">[SUCCESS]</span> Year 2025 archived successfully ✓<br><span class="success">[SUCCESS]</span> Loading new beginnings...<br><span class="success">[SUCCESS]</span> Preparing hopes and dreams...<br><span class="warning">[WARN]</span> Expectations set to: <span class="highlight">MAXIMUM</span>`
   },
   { 
     type: 'show', 
     target: 'output3', 
-    html: `<br><span class="year">✦ 2026 ✦</span><br><br><span style="color: #e6edf3;">Wishing you a year filled with</span><br><span class="success">► successful deployments</span><br><span class="info">► zero merge conflicts</span><br><span class="warning">► infinite coffee</span><br><span class="highlight">► code that works on the first try</span>`
+    html: `<br><span class="year">✦ 2026 ✦</span><br><br><span style="color: #e6edf3;">Wishing you a year filled with</span><br><span class="success">► endless opportunities</span><br><span class="info">► meaningful connections</span><br><span class="warning">► joy and laughter</span><br><span class="highlight">► dreams that come true</span>`
   },
   { 
     type: 'show', 
     target: 'output4', 
-    html: `<br><span class="info">$ echo "Happy New Year!"</span><br><span style="color: #e6edf3; font-size: 18px;">🎆 May your code compile and your bugs be few! 🎆</span>`
+    html: `<br><span class="info">$ echo "Happy New Year!"</span><br><span style="color: #e6edf3; font-size: 18px;">🎆 May your year be filled with happiness, success, and beautiful moments! 🎆</span>`
   },
   { 
     type: 'show', 
